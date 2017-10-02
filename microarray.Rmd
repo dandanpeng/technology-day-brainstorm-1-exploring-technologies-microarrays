@@ -1,0 +1,23 @@
+---
+title: "Microarray"
+author: "Cheng Li"
+date: "2017/10/2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Summary
+
+* A 2D array on a solid substrate (usually a glass slide or silicon thin-film cell)
+* Detect the expression of thousands of genes at the same time
+
+
+### Resources
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Microarray)
+* [A short video](https://www.youtube.com/watch?v=VNsThMNjKhM)
+* [A useful website](http://www.premierbiosoft.com/tech_notes/microarray.html)
+* [A review paper: _Microarray and its applications_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3467903/)
