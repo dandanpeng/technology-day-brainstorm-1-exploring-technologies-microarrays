@@ -1,23 +1,19 @@
 ---
 title: "Microarray"
-author: "Cheng Li"
-date: "2017/10/2"
+author: "Dandan Peng"
+date: "2017-10-2"
 output: html_document
 ---
+## Summary
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+- Technique:Gene microarray technology rests on the ability to deposit many (tens of thousands) different DNA sequences on a small surface, usually a glass slide (often referred to as a ¡°chip¡±). 
 
-### Summary
+- Principle: mRNA acts as a surrogate marker. Since mRNA is degraded easily, it is necessary to convert it into a more stable cDNA form. Labeling of cDNA is done by fluorochrome dyes Cy3 (green) and Cy5 (red). The principle behind microarrays is that complementary sequences will bind to each other.
 
-* A 2D array on a solid substrate (usually a glass slide or silicon thin-film cell)
-* Detect the expression of thousands of genes at the same time
+- Application: antibiotic treatment, early detection of oral precancerous lesions, simultaneous testing of a large set of genetic samples during tumor formation.
 
+## References
+- [Microarray and its applications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3467903/)
+- [DNA microarrays: Types, Applications and their future](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4011503/)
+- [How does a DNA microarray work?](https://www.youtube.com/watch?v=pWk_zBpKt_w)
 
-### Resources
-
-* [Wikipedia](https://en.wikipedia.org/wiki/Microarray)
-* [A short video](https://www.youtube.com/watch?v=VNsThMNjKhM)
-* [A useful website](http://www.premierbiosoft.com/tech_notes/microarray.html)
-* [A review paper: _Microarray and its applications_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3467903/)
