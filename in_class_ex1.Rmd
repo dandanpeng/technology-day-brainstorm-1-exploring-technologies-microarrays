@@ -16,4 +16,4 @@ Scientists use DNA microarrays to measure the expression levels of large numbers
 
 ## microarry references
 [wikipedia!](https://en.wikipedia.org/wiki/DNA_microarray)
-
+[A short video](https://www.youtube.com/watch?v=VNsThMNjKhM)
