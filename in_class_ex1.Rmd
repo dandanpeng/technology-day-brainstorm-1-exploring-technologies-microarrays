@@ -15,5 +15,5 @@ A DNA microarray (also commonly known as DNA chip or biochip) is a collection of
 Scientists use DNA microarrays to measure the expression levels of large numbers of genes simultaneously or to genotype multiple regions of a genome.
 
 ## microarry references
-[wikipedia!](https://en.wikipedia.org/wiki/DNA_microarray)
-[A short video](https://www.youtube.com/watch?v=VNsThMNjKhM)
+* [wikipedia!](https://en.wikipedia.org/wiki/DNA_microarray)
+* [A short video](https://www.youtube.com/watch?v=VNsThMNjKhM)
