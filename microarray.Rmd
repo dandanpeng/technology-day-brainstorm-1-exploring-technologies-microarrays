@@ -19,3 +19,4 @@ output: html_document
 
 ## In-class exercise2: Links
 
+- Dup-Seq: sequencing ->radically lower the error rate of sequencing            ->Wilson score interval method
