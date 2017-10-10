@@ -17,5 +17,5 @@ output: html_document
 - [DNA microarrays: Types, Applications and their future](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4011503/)
 - [How does a DNA microarray work?](https://www.youtube.com/watch?v=pWk_zBpKt_w)
 
-##In-class exercise2: Links
+## In-class exercise2: Links
 
