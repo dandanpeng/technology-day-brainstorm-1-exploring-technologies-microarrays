@@ -16,7 +16,9 @@ output: html_document
 - [Microarray and its applications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3467903/)
 - [DNA microarrays: Types, Applications and their future](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4011503/)
 - [How does a DNA microarray work?](https://www.youtube.com/watch?v=pWk_zBpKt_w)
+- [Intorduction to microarray](http://www.premierbiosoft.com/tech_notes/microarray.html)
 
 ## In-class exercise2: Links
 
 - Dup-Seq: sequencing ->radically lower the error rate of sequencing            ->Wilson score interval method
+- GBS(Genotyping by Sequencing) -> Illumina Sequencing -> MLM (Mixed Linear Model)
