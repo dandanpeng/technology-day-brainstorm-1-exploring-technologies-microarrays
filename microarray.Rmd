@@ -1,6 +1,6 @@
 ---
 title: "Microarray"
-author: "   TaoDFang orangelc1221 uraniumyo"
+author: " dandanpeng,LeaveLeaves,TaoDFang, orangelc1221, uraniumyo, "
 date: "2017-10-10"
 output: html_document
 ---
