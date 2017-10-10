@@ -1,10 +1,10 @@
 ---
 title: "Microarray"
-author: " dandanpeng,LeaveLeaves,TaoDFang, orangelc1221, uraniumyo, "
+author: " dandanpeng,LeaveLeaves,TaoDFang, orangelc1221, uraniumyo "
 date: "2017-10-10"
 output: html_document
 ---
-## Summary
+## In-class exercise1: Summary
 
 - Technique:Gene microarray technology rests on the ability to deposit many (tens of thousands) different DNA sequences on a small surface, usually a glass slide (often referred to as a ??chip??). 
 
@@ -12,8 +12,10 @@ output: html_document
 
 - Application: antibiotic treatment, early detection of oral precancerous lesions, simultaneous testing of a large set of genetic samples during tumor formation.
 
-## References
+### References
 - [Microarray and its applications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3467903/)
 - [DNA microarrays: Types, Applications and their future](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4011503/)
 - [How does a DNA microarray work?](https://www.youtube.com/watch?v=pWk_zBpKt_w)
+
+##In-class exercise2: Links
 
