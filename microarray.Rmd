@@ -1,12 +1,12 @@
 ---
 title: "Microarray"
-author: "Dandan Peng"
-date: "2017-10-2"
+author: "   TaoDFang orangelc1221 uraniumyo"
+date: "2017-10-10"
 output: html_document
 ---
 ## Summary
 
-- Technique:Gene microarray technology rests on the ability to deposit many (tens of thousands) different DNA sequences on a small surface, usually a glass slide (often referred to as a ¡°chip¡±). 
+- Technique:Gene microarray technology rests on the ability to deposit many (tens of thousands) different DNA sequences on a small surface, usually a glass slide (often referred to as a ??chip??). 
 
 - Principle: mRNA acts as a surrogate marker. Since mRNA is degraded easily, it is necessary to convert it into a more stable cDNA form. Labeling of cDNA is done by fluorochrome dyes Cy3 (green) and Cy5 (red). The principle behind microarrays is that complementary sequences will bind to each other.
 
