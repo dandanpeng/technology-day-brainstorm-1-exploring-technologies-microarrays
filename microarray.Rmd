@@ -22,3 +22,4 @@ output: html_document
 
 - Dup-Seq: sequencing ->radically lower the error rate of sequencing            ->Wilson score interval method
 - GBS(Genotyping by Sequencing) -> Illumina Sequencing -> MLM (Mixed Linear Model)
+- Gene chip -> remove non-biological variation between the samples -> normalization 
